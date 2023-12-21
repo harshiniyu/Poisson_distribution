@@ -1,3 +1,5 @@
+# DATE 
+
 # Fitting Poisson  distribution
 # Aim : 
 
@@ -69,8 +71,8 @@ else:
 
 
 # Output :
+![image](https://github.com/harshiniyu/Poisson_distribution/assets/144979786/807d2658-ed66-4648-b635-8a0e8a4daf8e)
 
-![poisson_distribution](https://github.com/harshiniyu/Poisson_distribution/assets/144979786/6e77f356-305f-4f5c-986f-ef17fa1b203c)
 
 # Results :
 
